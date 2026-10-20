@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:55:11.491Z",
+  "generated_at": "2026-10-20T19:02:59.097Z",
   "items": {
     "problem:489": {
       "kind": "problem",
@@ -39,6 +39,19 @@
       "last_pushed_at": "2026-10-20T18:55:00.552Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:485": {
+      "kind": "problem",
+      "id": "485",
+      "title": "PPO Clipped Surrogate Loss with Clip Diagnostics",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/485",
+      "path": "problems/0485-ppo-clipped-surrogate-loss-with-clip-diagnostics",
+      "first_solved_at": "2026-10-20T19:02:53.299Z",
+      "last_pushed_at": "2026-10-20T19:02:53.299Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
