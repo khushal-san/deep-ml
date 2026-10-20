@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:02:59.097Z",
+  "generated_at": "2026-10-20T19:05:38.529Z",
   "items": {
     "problem:489": {
       "kind": "problem",
@@ -50,6 +50,19 @@
       "path": "problems/0485-ppo-clipped-surrogate-loss-with-clip-diagnostics",
       "first_solved_at": "2026-10-20T19:02:53.299Z",
       "last_pushed_at": "2026-10-20T19:02:53.299Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:224": {
+      "kind": "problem",
+      "id": "224",
+      "title": "Group Relative Advantage for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/224",
+      "path": "problems/0224-group-relative-advantage-for-grpo",
+      "first_solved_at": "2026-10-20T19:05:37.665Z",
+      "last_pushed_at": "2026-10-20T19:05:37.665Z",
       "language": "python",
       "lines": 24
     }
