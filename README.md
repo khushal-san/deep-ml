@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**7** solved · 7 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fine-Tune Model Weights with RLHF Policy Gradient](https://www.deep-ml.com/problems/361) | medium | 2026-10-20 | [solution](problems/0361-fine-tune-model-weights-with-rlhf-policy-gradient) |
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-10-20 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [PPO Clipped Surrogate Loss with Clip Diagnostics](https://www.deep-ml.com/problems/485) | medium | 2026-10-20 | [solution](problems/0485-ppo-clipped-surrogate-loss-with-clip-diagnostics) |
+| [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-05 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ---
 
