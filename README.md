@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-11-06 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [KL Divergence Estimator for GRPO](https://www.deep-ml.com/problems/225) | easy | 2026-10-20 | [solution](problems/0225-kl-divergence-estimator-for-grpo) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-11-05 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-11-06 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-11-06 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Fine-Tune Model Weights with RLHF Policy Gradient](https://www.deep-ml.com/problems/361) | medium | 2026-10-20 | [solution](problems/0361-fine-tune-model-weights-with-rlhf-policy-gradient) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-11-06 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
